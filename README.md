@@ -8,10 +8,16 @@
 # Installation
 ```
 pkg install git
+```
 
+```
 git clone https://github.com/denizxss/termux-minecraft-server-script.git
+```
 
+```
 chmod +x main.sh
+```
 
+```
 chmod +x launch.sh
 ```
