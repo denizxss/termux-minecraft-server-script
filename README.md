@@ -14,6 +14,12 @@ pkg install git
 git clone https://github.com/denizxss/termux-minecraft-server-script.git
 ```
 
+
+# Start Script & Create Server
+```
+cd termux-minecraft-server-script
+```
+
 ```
 chmod +x main.sh
 ```
@@ -21,3 +27,9 @@ chmod +x main.sh
 ```
 chmod +x launch.sh
 ```
+
+```
+./main.sh
+```
+
+
