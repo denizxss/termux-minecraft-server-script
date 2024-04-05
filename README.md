@@ -32,4 +32,9 @@ chmod +x launch.sh
 ./main.sh
 ```
 
+# Launch Already Existing Server
+
+```
+./launch.sh
+```
 
