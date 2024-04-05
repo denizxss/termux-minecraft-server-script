@@ -4,6 +4,10 @@
  
  Don't forget to change the IP address after the server is created. If you are going to play with your friends you can use ZeroTier.
 
+ ### To Do
+
+- [ ] Add custom server.jar installing options to script (Only Vanilla Minecraft)
+
 
 # Installation
 ```
