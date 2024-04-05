@@ -6,6 +6,7 @@
 
 
 # Installation
-wget https://raw.githubusercontent.com/denizxss/termux-minecraft-server-script/main/script.sh
+pkg install git
+git clone https://github.com/denizxss/termux-minecraft-server-script.git
+chmod +x main.sh && launch.sh
 
-bash script.sh
