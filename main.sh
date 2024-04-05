@@ -16,6 +16,7 @@ case "$yn" in
 break;;
 esac 
 done
+pkg install openssl
 pkg install zlib
 pkg install openjdk-17
 pkg install wget
