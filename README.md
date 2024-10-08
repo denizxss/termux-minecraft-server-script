@@ -13,7 +13,7 @@
 - [x] Add custom server.jar installing options to script (Only Vanilla Minecraft)
 
 
-# Installation
+## Installation
 1. Install Git
  ```
  pkg install git
@@ -24,7 +24,7 @@ git clone https://github.com/denizxss/termux-minecraft-server-script.git
 ```
 
 
-# Start Script & Create Server
+## Start Script & Create Server
 1. Open script directory
 ```
 cd termux-minecraft-server-script
@@ -44,7 +44,7 @@ chmod +x launch.sh
 > [!TIP]
 > Don't forget to change IP address and lower view distance for less memory and CPU usage.
 
-# Launch Already Existing Server
+## Launch Already Existing Server
 
 ```
 ./launch.sh
