@@ -12,6 +12,7 @@
 
 - [x] Add custom server.jar installing options to script. (Only Vanilla Minecraft)
 - [ ] PaperMC installation option.
+- [ ] Better launch script with adjustable things.
 
 
 ## Installation
