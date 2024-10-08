@@ -1,8 +1,12 @@
 # termux-minecraft-server-script
  This script allows you to open Minecraft server easily from your phone.
+
+> [!WARNING]  
+> Above 1.20.4 versions requires JDK 21, official Termux repos have JDK17. Those versions won't be able to use until JDK21 added.
+
+> [!CAUTION]
+> Crashes and overheat may occur use this at your own risk.
  
- 
- Don't forget to change the IP address after the server is created. If you are going to play with your friends you can use ZeroTier.
 
  ### To Do
 
@@ -35,6 +39,8 @@ chmod +x launch.sh
 ```
 ./main.sh
 ```
+> [!TIP]
+> Don't forget to change IP address and lower view distance for less memory and CPU usage.
 
 # Launch Already Existing Server
 
