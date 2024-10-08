@@ -14,20 +14,22 @@
 
 
 # Installation
-```
-pkg install git
-```
-
+1. Install Git
+ ```
+ pkg install git
+ ```
+2. Clone the repo
 ```
 git clone https://github.com/denizxss/termux-minecraft-server-script.git
 ```
 
 
 # Start Script & Create Server
+1. Open script directory
 ```
 cd termux-minecraft-server-script
 ```
-
+2. Make scripts executable
 ```
 chmod +x main.sh
 ```
@@ -35,7 +37,7 @@ chmod +x main.sh
 ```
 chmod +x launch.sh
 ```
-
+3. Launch script
 ```
 ./main.sh
 ```
