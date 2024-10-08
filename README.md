@@ -10,7 +10,8 @@
 
  ### To Do
 
-- [x] Add custom server.jar installing options to script (Only Vanilla Minecraft)
+- [x] Add custom server.jar installing options to script. (Only Vanilla Minecraft)
+- [ ] PaperMC installation option.
 
 
 ## Installation
